@@ -120,14 +120,6 @@ jupyter notebook BDA_Mini_Project.ipynb
 | Train / Test Split | 80% / 20% |
 | **Accuracy** | **88.57%** |
 
----
-
-## Academic Details
-
-- **Institution:** REVA University, Bengaluru
-- **Course:** Big Data Analytics (BDA)
-- **Academic Year:** 2024–25
-- **Semester:** 4th
 
 ---
 
